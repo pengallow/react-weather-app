@@ -1,9 +1,9 @@
 export default function Fahrenheit() {
   return (
     <span>
-      <a href="#" id="fahrenheit-link">
+      <button id="fahrenheit-link">
         ºF
-      </a>
+      </button>
     </span>
   );
 }

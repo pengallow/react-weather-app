@@ -48,5 +48,8 @@ button {
 }
 #celsius-link,
 #fahrenheit-link {
+  background-color: #07689f;
   color: #ff7e67;
+  padding: 0px;
+  text-decoration: underline;
 }
