@@ -10,6 +10,9 @@ function App() {
         </h1>
         <Search />
       </header>
+      <p>
+        <a href="https://github.com/pengallow/react-weather-app">GitHub Repository</a>
+      </p>
     </div>
   );
 }
